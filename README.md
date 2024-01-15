@@ -11,7 +11,7 @@ Your task is to fork this repository, add a document with your student ID, and t
    - Click the 'Fork' button at the top-right of this repository page on GitHub. This creates a personal copy of this repository in your account.
 2. Add your Student ID Document:
     - In your forked repository, click the 'Add file' button and select 'Create new file'.
-    - Name the file <IDnumber>.txt (replace <IDnumber> with your actual student ID).
+    - Name the file [IDnumber].txt (replace <IDnumber> with your actual student ID).
     - In the file, write me a message (please be kind 😅).
     - Scroll down, add a commit message in the "Commit new file" section, and click 'Commit new file'.
 3. Create a Pull Request:
